@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Python virtual env
+.venv/
+
+# Project outputs/data artifacts
+universe.csv
+prices_adj.parquet
+screener_signals.csv
+sleeves.csv
+equity_curve.csv
